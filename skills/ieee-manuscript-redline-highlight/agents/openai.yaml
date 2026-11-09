@@ -1,0 +1,4 @@
+interface:
+  display_name: "IEEE Manuscript Revision"
+  short_description: "Evidence-led revision with verified visual redlines"
+  default_prompt: "Use $ieee-manuscript-redline-highlight to revise the selected manuscript sections and deliver a clean PDF and a highlighted comparison."
