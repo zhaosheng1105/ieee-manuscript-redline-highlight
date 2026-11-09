@@ -1,0 +1,6 @@
+{
+  "TargetObjectId": "ego",
+  "RequestType": "GetFrictionModifiers",
+  "bVerboseResponse": false,
+  "RequestBody": {"Tires": "All"}
+}

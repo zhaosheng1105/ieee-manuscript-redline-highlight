@@ -1,0 +1,6 @@
+{
+  "TargetObjectId": 0,
+  "RequestType": "GetVersion",
+  "bVerboseResponse": false,
+  "RequestBody": {}
+}

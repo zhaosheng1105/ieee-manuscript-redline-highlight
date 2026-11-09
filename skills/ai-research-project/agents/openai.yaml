@@ -1,0 +1,4 @@
+interface:
+  display_name: "个人 AI 科研工程：从零到交付"
+  short_description: "沿用个人 milestone 设计与精选实验案例，逐步验证研究并积累跨项目经验"
+  default_prompt: "使用 $ai-research-project 读取个人偏好、相关阶段或实验案例及当前项目记录，按我的既有工作方式推进本轮任务并维护项目记忆。"

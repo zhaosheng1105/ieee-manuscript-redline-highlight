@@ -1,0 +1,4 @@
+interface:
+  display_name: "Autoverse 接口调用"
+  short_description: "直接查询和控制 Autoverse，复用摩擦、复位、坐标传送及接口读回经验"
+  default_prompt: "使用 $autoverse-skill，核对当前 Autoverse 连接与目标对象，按本轮要求调用接口并验证实际结果。"
